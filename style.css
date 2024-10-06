@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#joke {
+    font-size: 1.5rem;
+    color: #6c757d;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
